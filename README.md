@@ -42,11 +42,6 @@ This is how the game begins, with options to toggle modes and sound settings:
 
 ![Start Screen](assets/start_screen.png)
 
-### **In-Game View**
-Experience the gameplay as the snake moves, eats fruits, and avoids obstacles:
-
-![In-Game Screenshot](assets/in_game.png)
-
 ---
 
 ## **🛠️ How It Works**
