@@ -44,16 +44,8 @@ logisim-snake-game/
 │   ├── snake_game_demo.gif
 │   ├── screenshot1.png
 │   └── screenshot2.png
+│   └── screenshot3.png
 ├── circuits/              # Circuit files (.circ)
-│   ├── snake_game.circ
-│   └── modules/
-│       ├── clock_module.circ
-│       ├── sound_module.circ
-│       ├── game_logic.circ
-│       └── display_module.circ
-├── documentation/         # Detailed documentation
-│   ├── game_design.pdf
-│   ├── logic_explanation.md
-│   └── user_guide.md
+│   └── snake_game.circ
 ├── README.md              # Project overview
 └── LICENSE                # License file
