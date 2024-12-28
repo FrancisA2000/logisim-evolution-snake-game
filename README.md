@@ -28,6 +28,27 @@ This Snake Game offers simple yet engaging gameplay where the player controls a 
 
 ---
 
+## **🎥 Preview**
+Here’s a glimpse of the Snake Game in action:
+
+![Gameplay Demo](assets/snake_game_demo.gif)
+
+---
+
+## **🖼️ Screenshots**
+
+### **Start Screen**
+This is how the game begins, with options to toggle modes and sound settings:
+
+![Start Screen](assets/start_screen.png)
+
+### **In-Game View**
+Experience the gameplay as the snake moves, eats fruits, and avoids obstacles:
+
+![In-Game Screenshot](assets/in_game.png)
+
+---
+
 ## **🛠️ How It Works**
 The game is designed using digital logic circuits and components in Logisim Evolution:
 - **Logic Implementation**: The game uses registers, counters, and gates to manage movement, collision detection, and scoring.
@@ -43,8 +64,8 @@ logisim-snake-game/
 ├── assets/                # Images and videos of the simulation
 │   ├── snake_game_demo.gif
 │   ├── screenshot1.png
-│   └── screenshot2.png
-│   └── screenshot3.png
+│   └── in_game.png
+│   └── start_screen.png
 ├── circuits/              # Circuit files (.circ)
 │   └── snake_game.circ
 ├── README.md              # Project overview
